@@ -5,7 +5,7 @@
 
   - แสดงอัพเดตสถานการณ์ไวรัส COVID-19
   - อัพเดตทั้งโลกจากเว็บไซต์ https://www.worldometers.info/coronavirus/
-  - อัดเดตของไทยจากเว็บไซต์กรมควบคุมโรค https://ddc.moph.go.th/viralpneumonia/ 
+  - อัดเดตของไทยจากเว็บไซต์กรมควบคุมโรค https://ddc.moph.go.th/viralpneumonia/
 
 
 ### วิธีติดตั้งแสนง่าย
